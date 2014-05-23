@@ -1,0 +1,98 @@
+%  article.tex (Version 3.3, released 19 January 2008)
+%  Article to demonstrate format for SPIE Proceedings
+%  Special instructions are included in this file after the
+%  symbol %>>>>
+%  Numerous commands are commented out, but included to show how
+%  to effect various options, e.g., to print page numbers, etc.
+%  This LaTeX source file is composed for LaTeX2e.
+
+%  The following commands have been added in the SPIE class 
+%  file (spie.cls) and will not be understood in other classes:
+%  \supit{}, \authorinfo{}, \skiplinehalf, \keywords{}
+%  The bibliography style file is called spiebib.bst, 
+%  which replaces the standard style unstr.bst.  
+
+\documentclass[a4paper]{spie}  %>>> use for US letter paper
+%%\documentclass[a4paper]{spie}  %>>> use this instead for A4 paper
+%%\documentclass[nocompress]{spie}  %>>> to avoid compression of citations
+%% \addtolength{\voffset}{9mm}   %>>> moves text field down
+%% \renewcommand{\baselinestretch}{1.65}   %>>> 1.65 for double spacing, 1.25 for 1.5 spacing 
+%  The following command loads a graphics package to include images 
+%  in the document. It may be necessary to specify a DVI driver option,
+%  e.g., [dvips], but that may be inappropriate for some LaTeX 
+%  installations. 
+\usepackage{wrapfig}
+\usepackage{ragged2e}
+\usepackage{graphicx}
+\usepackage{color}   %May be necessary if you want to color links
+\usepackage{hyperref}
+\hypersetup{
+    colorlinks=true, %set true if you want colored links
+    linktoc=all,     %set to all if you want both sections and subsections linked
+    linkcolor=blue,  %choose some color if you want links to stand out
+}
+
+\title{\uppercase{ {\fontsize{120}{120}\selectfont La vie est dr\"{o}le}} \\ 
+\bigskip \bigskip \bigskip \bigskip
+{\fontsize{40}{40}\selectfont Fichero Recetario}}
+
+
+%>>>> The author is responsible for formatting the 
+%  author list and their institutions.  Use  \skiplinehalf 
+%  to separate author list from addresses and between each address.
+%  The correspondence between each author and his/her address
+%  can be indicated with a superscript in italics, 
+%  which is easily obtained with \supit{}.
+
+\author{Mart\'in Aversa \\
+Sebasti\'an Aversa \\
+Eli C\'espedes \\
+Iv\'an Garcia \\
+Alejandro Montes de Oca \\
+Lucas V\'elez
+\skiplinehalf}
+
+%>>>> Further information about the authors, other than their 
+%  institution and addresses, should be included as a footnote, 
+%  which is facilitated by the \authorinfo{} command.
+
+\authorinfo{Autores: \\ Mart\'in Aversa \\
+Sebasti\'an Aversa \\
+Eli C\'espedes \\
+Iv\'an Garcia \\
+Alejandro Montes de Oca \\
+Lucas V\'elez}
+%%>>>> when using amstex, you need to use @@ instead of @
+ 
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% 
+%>>>> uncomment following for page numbers
+\pagestyle{plain}    
+%>>>> uncomment following to start page numbering at 301 
+\setcounter{page}{2} 
+ 
+\begin{document} 
+  \maketitle 
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\section{INTRODUCCI\'ON}
+\label{sec:intro}  % \label{} allows reference to this section
+
+Este documento describe los ingredientes, proporciones y m\'etodos para realizar distintos cocteles.
+\bigskip
+\bigskip
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\tableofcontents
+
+\newpage
+\section{Cocteles ingleses}
+\bigskip \bigskip \bigskip
+\subsection{Born to be British}
+\input{./ingles/Born_to_be_British.tex}
+\newpage
+
+\newpage
+\bigskip \bigskip \bigskip
+\subsection{Gin \& Tonic}
+\input{./ingles/Gin_tonic.tex}
+\newpage
+\end{document} 
