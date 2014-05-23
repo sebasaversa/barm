@@ -1,0 +1,49 @@
+\contentsline {section}{\numberline {1}INTRODUCCI\'ON}{2}{section.1}
+\contentsline {section}{\numberline {2}Cocteles ingleses}{4}{section.2}
+\contentsline {subsection}{\numberline {2.1}Born to be British}{4}{subsection.2.1}
+\contentsline {subsubsection}{\numberline {2.1.1}Contenido}{4}{subsubsection.2.1.1}
+\contentsline {subsubsection}{\numberline {2.1.2}Formato de elaboraci\'on}{4}{subsubsection.2.1.2}
+\contentsline {subsubsection}{\numberline {2.1.3}Notas}{4}{subsubsection.2.1.3}
+\contentsline {subsection}{\numberline {2.2}Gin \& Tonic}{5}{subsection.2.2}
+\contentsline {subsubsection}{\numberline {2.2.1}Contenido}{5}{subsubsection.2.2.1}
+\contentsline {subsubsection}{\numberline {2.2.2}Formato de elaboraci\'on}{5}{subsubsection.2.2.2}
+\contentsline {subsubsection}{\numberline {2.2.3}Notas}{5}{subsubsection.2.2.3}
+\contentsline {subsubsection}{\numberline {2.2.4}Informaci\'on extra}{6}{subsubsection.2.2.4}
+\contentsline {section}{\numberline {3}Cocteles franceses}{7}{section.3}
+\contentsline {subsection}{\numberline {3.1}French 75}{7}{subsection.3.1}
+\contentsline {subsubsection}{\numberline {3.1.1}Contenido}{7}{subsubsection.3.1.1}
+\contentsline {subsubsection}{\numberline {3.1.2}Formato de elaboraci\'on}{7}{subsubsection.3.1.2}
+\contentsline {subsubsection}{\numberline {3.1.3}Notas}{7}{subsubsection.3.1.3}
+\contentsline {subsubsection}{\numberline {3.1.4}Informaci\'on extra}{8}{subsubsection.3.1.4}
+\contentsline {subsection}{\numberline {3.2}Sidecar}{9}{subsection.3.2}
+\contentsline {subsubsection}{\numberline {3.2.1}Contenido}{9}{subsubsection.3.2.1}
+\contentsline {subsubsection}{\numberline {3.2.2}Formato de elaboraci\'on}{9}{subsubsection.3.2.2}
+\contentsline {subsubsection}{\numberline {3.2.3}Notas}{9}{subsubsection.3.2.3}
+\contentsline {subsubsection}{\numberline {3.2.4}Informaci\'on extra}{9}{subsubsection.3.2.4}
+\contentsline {section}{\numberline {4}Cocteles italianos}{10}{section.4}
+\contentsline {subsection}{\numberline {4.1}Negroni}{10}{subsection.4.1}
+\contentsline {subsubsection}{\numberline {4.1.1}Contenido}{10}{subsubsection.4.1.1}
+\contentsline {subsubsection}{\numberline {4.1.2}Formato de elaboraci\'on}{10}{subsubsection.4.1.2}
+\contentsline {subsubsection}{\numberline {4.1.3}Notas}{10}{subsubsection.4.1.3}
+\contentsline {subsubsection}{\numberline {4.1.4}Informaci\'on extra}{10}{subsubsection.4.1.4}
+\contentsline {subsection}{\numberline {4.2}Martini}{11}{subsection.4.2}
+\contentsline {subsubsection}{\numberline {4.2.1}Contenido}{11}{subsubsection.4.2.1}
+\contentsline {subsubsection}{\numberline {4.2.2}Formato de elaboraci\'on}{11}{subsubsection.4.2.2}
+\contentsline {subsubsection}{\numberline {4.2.3}Notas}{11}{subsubsection.4.2.3}
+\contentsline {subsection}{\numberline {4.3}God Father}{12}{subsection.4.3}
+\contentsline {subsubsection}{\numberline {4.3.1}Contenido}{12}{subsubsection.4.3.1}
+\contentsline {subsubsection}{\numberline {4.3.2}Formato de elaboraci\'on}{12}{subsubsection.4.3.2}
+\contentsline {subsubsection}{\numberline {4.3.3}Notas}{12}{subsubsection.4.3.3}
+\contentsline {section}{\numberline {5}Cocteles rusos}{13}{section.5}
+\contentsline {subsection}{\numberline {5.1}Balalaika}{13}{subsection.5.1}
+\contentsline {subsubsection}{\numberline {5.1.1}Contenido}{13}{subsubsection.5.1.1}
+\contentsline {subsubsection}{\numberline {5.1.2}Formato de elaboraci\'on}{13}{subsubsection.5.1.2}
+\contentsline {subsubsection}{\numberline {5.1.3}Notas}{13}{subsubsection.5.1.3}
+\contentsline {subsection}{\numberline {5.2}Volga}{14}{subsection.5.2}
+\contentsline {subsubsection}{\numberline {5.2.1}Contenido}{14}{subsubsection.5.2.1}
+\contentsline {subsubsection}{\numberline {5.2.2}Formato de elaboraci\'on}{14}{subsubsection.5.2.2}
+\contentsline {subsubsection}{\numberline {5.2.3}Notas}{14}{subsubsection.5.2.3}
+\contentsline {subsection}{\numberline {5.3}Nueva Rusia}{15}{subsection.5.3}
+\contentsline {subsubsection}{\numberline {5.3.1}Contenido}{15}{subsubsection.5.3.1}
+\contentsline {subsubsection}{\numberline {5.3.2}Formato de elaboraci\'on}{15}{subsubsection.5.3.2}
+\contentsline {subsubsection}{\numberline {5.3.3}Notas}{15}{subsubsection.5.3.3}
