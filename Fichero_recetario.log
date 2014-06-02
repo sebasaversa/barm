@@ -1,7 +1,7 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2014.5.12)  23 MAY 2014 16:19
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2014.5.12)  2 JUN 2014 14:37
 entering extended mode
 **Fichero_recetario.tex
-("C:\Users\Martin\Desktop\Recetarios\TP Final\trunk\Fichero_recetario.tex"
+("E:\ESCRITORIO 25112013\Recetarios\TP Final\trunk\Fichero_recetario.tex"
 LaTeX2e <2011/06/27>
 Babel <v3.8m> and hyphenation patterns for english, afrikaans, ancientgreek, ar
 abic, armenian, assamese, basque, bengali, bokmal, bulgarian, catalan, coptic, 
@@ -13,7 +13,7 @@ german-x-2013-05-26, nynorsk, oriya, panjabi, pinyin, polish, portuguese, roman
 ian, russian, sanskrit, serbian, slovak, slovenian, spanish, swedish, swissgerm
 an, tamil, telugu, turkish, turkmen, ukenglish, ukrainian, uppersorbian, usengl
 ishmax, welsh, loaded.
-("C:\Users\Martin\Desktop\Recetarios\TP Final\trunk\spie.cls"
+("E:\ESCRITORIO 25112013\Recetarios\TP Final\trunk\spie.cls"
 Document Class: spie 2008/01/19 v3.3 SPIE Proceedings class
 ("C:\Program Files\MiKTeX 2.9\tex\latex\base\article.cls"
 Document Class: article 2007/10/19 v1.4h Standard LaTeX document class
@@ -231,7 +231,7 @@ Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
 )
 Package hyperref Info: Option `colorlinks' set `true' on input line 33.
 
-("C:\Users\Martin\Desktop\Recetarios\TP Final\trunk\Fichero_recetario.aux"
+("E:\ESCRITORIO 25112013\Recetarios\TP Final\trunk\Fichero_recetario.aux"
 
 LaTeX Warning: Label `tab:fonts' multiply defined.
 
@@ -287,22 +287,22 @@ LaTeX Warning: Label `tab:fonts' multiply defined.
 LaTeX Warning: Label `sec:title' multiply defined.
 
 )
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 75.
-LaTeX Font Info:    ... okay on input line 75.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 75.
-LaTeX Font Info:    ... okay on input line 75.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 75.
-LaTeX Font Info:    ... okay on input line 75.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 75.
-LaTeX Font Info:    ... okay on input line 75.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 75.
-LaTeX Font Info:    ... okay on input line 75.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 75.
-LaTeX Font Info:    ... okay on input line 75.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 75.
-LaTeX Font Info:    ... okay on input line 75.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 62.
+LaTeX Font Info:    ... okay on input line 62.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 62.
+LaTeX Font Info:    ... okay on input line 62.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 62.
+LaTeX Font Info:    ... okay on input line 62.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 62.
+LaTeX Font Info:    ... okay on input line 62.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 62.
+LaTeX Font Info:    ... okay on input line 62.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 62.
+LaTeX Font Info:    ... okay on input line 62.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 62.
+LaTeX Font Info:    ... okay on input line 62.
  ABD: EverySelectfont initializing macros
-LaTeX Info: Redefining \selectfont on input line 75.
+LaTeX Info: Redefining \selectfont on input line 62.
 
 (C:\Users\Martin\AppData\Roaming\MiKTeX\2.9\tex\context\base\supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
@@ -319,7 +319,7 @@ LaTeX Info: Redefining \selectfont on input line 75.
 \everyMPtoPDFconversion=\toks17
 )
 \AtBeginShipoutBox=\box28
-Package hyperref Info: Link coloring ON on input line 75.
+Package hyperref Info: Link coloring ON on input line 62.
  ("C:\Program Files\MiKTeX 2.9\tex\latex\hyperref\nameref.sty"
 Package: nameref 2012/10/27 v2.43 Cross-referencing by name of section
 
@@ -328,33 +328,32 @@ Package: gettitlestring 2010/12/03 v1.4 Cleanup title references (HO)
 )
 \c@section@level=\count106
 )
-LaTeX Info: Redefining \ref on input line 75.
-LaTeX Info: Redefining \pageref on input line 75.
-LaTeX Info: Redefining \nameref on input line 75.
+LaTeX Info: Redefining \ref on input line 62.
+LaTeX Info: Redefining \pageref on input line 62.
+LaTeX Info: Redefining \nameref on input line 62.
 
-("C:\Users\Martin\Desktop\Recetarios\TP Final\trunk\Fichero_recetario.out")
-("C:\Users\Martin\Desktop\Recetarios\TP Final\trunk\Fichero_recetario.out")
+("E:\ESCRITORIO 25112013\Recetarios\TP Final\trunk\Fichero_recetario.out")
+("E:\ESCRITORIO 25112013\Recetarios\TP Final\trunk\Fichero_recetario.out")
 \@outlinefile=\write3
 
 cmr-font_in_spiecls
 10pt
 
 LaTeX Font Warning: Font shape `OT1/cmr/m/n' in size <120> not available
-(Font)              size <24.88> substituted on input line 77.
+(Font)              size <24.88> substituted on input line 64.
 
 
 LaTeX Font Warning: Font shape `OT1/cmr/m/n' in size <40> not available
-(Font)              size <24.88> substituted on input line 77.
+(Font)              size <24.88> substituted on input line 64.
 
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <9> on input line 77.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 77.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 77.
-("C:\Users\Martin\Desktop\Recetarios\TP Final\trunk\Fichero_recetario.toc"
+
+LaTeX Warning: No \author given.
+
+("E:\ESCRITORIO 25112013\Recetarios\TP Final\trunk\Fichero_recetario.toc"
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <7> on input line 3.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 3.
 
 [2
 
@@ -362,11 +361,10 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 \tf@toc=\write4
 
 [3]
-("C:\Users\Martin\Desktop\Recetarios\TP Final\trunk\ingles\Born_to_be_British.t
-ex") [4]
-("C:\Users\Martin\Desktop\Recetarios\TP Final\trunk\ingles\Gin_tonic.tex"
-[5]) [6]
-("C:\Users\Martin\Desktop\Recetarios\TP Final\trunk\frances\French_75.tex"
+("E:\ESCRITORIO 25112013\Recetarios\TP Final\trunk\ingles\Born_to_be_British.te
+x") [4] ("E:\ESCRITORIO 25112013\Recetarios\TP Final\trunk\ingles\Gin_tonic.tex
+" [5]) [6]
+("E:\ESCRITORIO 25112013\Recetarios\TP Final\trunk\frances\French_75.tex"
 Underfull \hbox (badness 10000) in paragraph at lines 73--74
 
  []
@@ -406,7 +404,7 @@ Missing character: There is no ú in font cmr10!
 Missing character: There is no ‚ in font cmr10!
 Missing character: There is no Ä in font cmr10!
 Missing character: There is no ù in font cmr10!
-) [8] ("C:\Users\Martin\Desktop\Recetarios\TP Final\trunk\frances\Sidecar.tex"
+) [8] ("E:\ESCRITORIO 25112013\Recetarios\TP Final\trunk\frances\Sidecar.tex"
 Underfull \hbox (badness 10000) in paragraph at lines 72--74
 
  []
@@ -414,16 +412,15 @@ Underfull \hbox (badness 10000) in paragraph at lines 72--74
 Missing character: There is no ‚ in font cmr10!
 Missing character: There is no Ä in font cmr10!
 Missing character: There is no ô in font cmr10!
-) [9] ("C:\Users\Martin\Desktop\Recetarios\TP Final\trunk\italianos\Negroni.tex
-") [10]
-("C:\Users\Martin\Desktop\Recetarios\TP Final\trunk\italianos\Martini.tex"
+) [9] ("E:\ESCRITORIO 25112013\Recetarios\TP Final\trunk\italianos\Negroni.tex"
+) [10] ("E:\ESCRITORIO 25112013\Recetarios\TP Final\trunk\italianos\Martini.tex
+"
 Missing character: There is no √ in font cmr10!
 Missing character: There is no ≥ in font cmr10!
 Missing character: There is no √ in font cmr10!
 Missing character: There is no ≥ in font cmr10!
-)
-[11]
-("C:\Users\Martin\Desktop\Recetarios\TP Final\trunk\italianos\God_Father.tex"
+) [11]
+("E:\ESCRITORIO 25112013\Recetarios\TP Final\trunk\italianos\God_Father.tex"
 Missing character: There is no √ in font cmr10!
 Missing character: There is no ≥ in font cmr10!
 
@@ -447,11 +444,12 @@ l.55 \end{center}
                  
 Things are pretty mixed up, but I think the worst is over.
 
-) [12] ("C:\Users\Martin\Desktop\Recetarios\TP Final\trunk\rusos\Balalaika.tex"
-) [13] ("C:\Users\Martin\Desktop\Recetarios\TP Final\trunk\rusos\Volga.tex")
-[14] ("C:\Users\Martin\Desktop\Recetarios\TP Final\trunk\rusos\Nueva_Rusia.tex"
+) [12] ("E:\ESCRITORIO 25112013\Recetarios\TP Final\trunk\rusos\Balalaika.tex")
+[13] ("E:\ESCRITORIO 25112013\Recetarios\TP Final\trunk\rusos\Volga.tex")
+[14] ("E:\ESCRITORIO 25112013\Recetarios\TP Final\trunk\rusos\Nueva_Rusia.tex"
 Missing character: There is no √ in font cmr10!
 Missing character: There is no ≥ in font cmr10!
+
 
 ! LaTeX Error: \begin{document} ended by \end{center}.
 
@@ -473,12 +471,12 @@ l.57 \end{center}
 Things are pretty mixed up, but I think the worst is over.
 
 )
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 150.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 137.
  [15]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 150.
- ("C:\Users\Martin\Desktop\Recetarios\TP Final\trunk\Fichero_recetario.aux")
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 150.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 150.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 137.
+ ("E:\ESCRITORIO 25112013\Recetarios\TP Final\trunk\Fichero_recetario.aux")
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 137.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 137.
 Package rerunfilecheck Info: File `Fichero_recetario.out' has not changed.
 (rerunfilecheck)             Checksum: B2F43DBE1D6B46C6E4832128E5B9233D;3409.
 
@@ -489,25 +487,24 @@ LaTeX Font Warning: Size substitutions with differences
 
 LaTeX Warning: There were multiply-defined labels.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 150.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 137.
  ) 
 Here is how much of TeX's memory you used:
- 5530 strings out of 493921
- 83312 string characters out of 3147279
- 163487 words of memory out of 3000000
- 8636 multiletter control sequences out of 15000+200000
- 7283 words of font info for 26 fonts, out of 3000000 for 9000
+ 5517 strings out of 493921
+ 83144 string characters out of 3147279
+ 162235 words of memory out of 3000000
+ 8628 multiletter control sequences out of 15000+200000
+ 5759 words of font info for 21 fonts, out of 3000000 for 9000
  841 hyphenation exceptions out of 8191
  29i,10n,28p,781b,411s stack positions out of 5000i,500n,10000p,200000b,50000s
 <C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Pr
 ogram Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Program Fil
-es/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Program Files/MiKTeX
- 2.9/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/Program Files/MiKTeX 2.9/font
-s/type1/public/amsfonts/cm/cmr7.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/pu
-blic/amsfonts/cm/cmr9.pfb>
-Output written on Fichero_recetario.pdf (14 pages, 162938 bytes).
+es/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/Program Files/MiKTeX
+ 2.9/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/Program Files/MiKTeX 2.9/fonts
+/type1/public/amsfonts/cm/cmr9.pfb>
+Output written on Fichero_recetario.pdf (14 pages, 146049 bytes).
 PDF statistics:
- 464 PDF objects out of 1000 (max. 8388607)
+ 460 PDF objects out of 1000 (max. 8388607)
  119 named destinations out of 1000 (max. 500000)
  393 words of extra memory for PDF output out of 10000 (max. 10000000)
 
